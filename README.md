@@ -1,7 +1,8 @@
 ## Code 102 notes
 
 
-### Markdown
+### Growth mindset
+Growth minset is the belief that you can reach any goal as long as you put time and energy towards it and persevere through any struggles along the way.
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
