@@ -4,7 +4,7 @@ My name is Caelin Hargrave, I'm a Navy vet located in Houston, TX that's interes
 Link to [My Git Hub](https://github.com/Caelinh) 
 
 ## Growth mindset
-[Picture of a brain](
+![Picture of a brain](main/brain.jpg)
 Growth mindset is the belief that you can reach any goal as long as you put the **time** and **energy** towards it.
 
 ### Tips to keep in the growth mindset
