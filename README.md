@@ -2,7 +2,7 @@
 
 
 ### Growth mindset
-Growth mindset is the belief that you can reach any goal as long as you put time and energy towards it and persevere through any struggles along the way.
+Growth mindset is the belief that you can reach any goal as long as you put the time and energy towards it.
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
