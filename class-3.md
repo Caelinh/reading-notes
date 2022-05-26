@@ -9,4 +9,13 @@
 >2.*Modified*: Data is securely stored in a local database.  
 >3.*Staged*: Flagged a file’s changed version to be committed in the next snapshot.
 
-# Git Commands
+# Important Git Commands
+> to add existing files from github to local machine >git clone 'url'  
+> to see the source of your repo >git remote -v  
+> current status of the git >git status  
+>> **_important_** to add/update file >git add _filename_  
+>> **_important_** to commit >git commit -m "_why your making the changes_"  
+>> **_important_** to push local files to update github >git push origin main  
+>> to pull github updates and update local files pull >git pull origin main  
+
+_Make sure to commit changes frequently!!_
