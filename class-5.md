@@ -15,4 +15,5 @@ h1 {
 - `This example contains two declarations, one for color and the other for font-size. Each pair specifies a property of the element(s) we are selecting (<h1> in this case), then a value that we'd like to give the property.`  
 
 Websites are infinitely customizeable and there are tons of options to customize your page. 
-Reference for some good styling commands [here](https://www.w3schools.com/cssref/default.asp).
+Reference for some good styling commands [here](https://www.w3schools.com/cssref/default.asp).  
+My own customized site [here](https://caelinh.github.io/reading-notes/class-5.html).
