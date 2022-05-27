@@ -1,6 +1,6 @@
 # Loops #
 
-## Loops ##
+## For Loops ##
 Loops are a way to do something repeatedly. do this then that. They repeat an action a certain amount of times.  
 Format is  
 `for ([initialExpression]; [conditionExpression]; [incrementExpression])    
@@ -23,7 +23,7 @@ btn.addEventListener('click', () => {
   console.log(`You have selected ${howMany(musicTypes)} option(s).`);
 });
 ```
-## While ##
+## While Loops ##
 executes the statement as long as condition is true.
 ```
 While(condition)
