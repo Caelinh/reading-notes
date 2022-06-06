@@ -3,7 +3,7 @@
 My name is Caelin Hargrave, I'm a Navy vet located in Houston, TX that's interested in becoming a developer in web 3. These are all the notes from the Code Fellows 102 course.<br>
 Link to [My Git Hub](https://github.com/Caelinh) 
 
-## Table of Contents
+## Table of Contents Code 102 notes
 - [Markdown](https://caelinh.github.io/reading-notes/class-1)
 - [The Terminal](https://caelinh.github.io/reading-notes/class-2)
 - [Using Git](https://caelinh.github.io/reading-notes/class-3)
@@ -12,3 +12,5 @@ Link to [My Git Hub](https://github.com/Caelinh)
 - [Dynamic pages with JavaScript](https://caelinh.github.io/reading-notes/class-6)
 - [Programming with JavaScript](https://caelinh.github.io/reading-notes/class-7)
 - [Operators and loops](https://caelinh.github.io/reading-notes/class-8)
+
+## Table of Contents Code 201 notes
