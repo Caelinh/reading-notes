@@ -26,3 +26,9 @@ Position of the element is based off the whatever the parent's container is.
 
 5.What is a key difference between fixed positioning and absolute positioning?
 Fixed positioning changes are based around surrounding objects. Absolute is based off the container it is in.
+
+# Learn Javascript
+
+1.Describe the difference between a function declaration and a function invocation.
+
+2.What is the difference between a parameter and an argument?
