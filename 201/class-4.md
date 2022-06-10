@@ -30,5 +30,14 @@ Fixed positioning changes are based around surrounding objects. Absolute is base
 # Learn Javascript
 
 1.Describe the difference between a function declaration and a function invocation.
+A function declaration is defining what a function does. Invoking is activating a function.
 
 2.What is the difference between a parameter and an argument?
+A parameter is something a function needs to do it's job properly. An argument is the same thing.
+
+# Miscellaneous
+
+1.Pick 2 benefits to pair programming and reflect on how these benefits could help you on your coding journey.
+-Learning from collegues can lead to different perspectives and maybe help you learn something you were struggling with or can do better.
+-Social skills... Programmers are notorious with being socially awkward. It's important to workout your social skills to help you be a better leader/teammate.
+
