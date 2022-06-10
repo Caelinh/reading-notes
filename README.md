@@ -14,3 +14,7 @@ Link to [My Git Hub](https://github.com/Caelinh)
 - [Operators and loops](https://caelinh.github.io/reading-notes/class-8)
 
 ## Table of Contents Code 201 notes
+- [Introductory HTML and JavaScript](https://caelinh.github.io/reading-notes/201/class-1)
+- [Basics of HTML, CSS and Javascript](https://caelinh.github.io/reading-notes/201/class-2)
+- [HTML Lists, Control Flow with JS, and the CSS Box Model](https://caelinh.github.io/reading-notes/201/class-3)
+- [HTML Links, CSS Layout, JS Functions](https://caelinh.github.io/reading-notes/201/class-4)
