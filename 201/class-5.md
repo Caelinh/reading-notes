@@ -24,4 +24,4 @@ That they are web-safe, compatable with all the browsers and readable.
 - font weight: Sets how bold the font is.
 - font style: What the font actually looks like, it's size and whether it's underlined, bold, etc..
 ### 5. Describe two ways you could add spacing around the characters displayed in an h1 element.
-By using ``letter-spacing`` and ``word spacing`` tags.
+By using ``letter-spacing`` and ``word-spacing`` tags.
