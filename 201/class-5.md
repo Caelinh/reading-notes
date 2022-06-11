@@ -1,6 +1,6 @@
 # HTML MEDIA
 
-### 1. What is a real world use case for the ``alt`` attribute being used in a website?  
+#### 1. What is a real world use case for the ``alt`` attribute being used in a website?  
 To use in situations where the image cannot be seen or it takes a long time to load.
 ### 2. How can you improve accessibility of images in an HTML document?
 By using various alternates to a link that explain what it is or allows the reader to access it another way.
