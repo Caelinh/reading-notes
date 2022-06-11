@@ -11,3 +11,17 @@ A gif is a simple image or animation while a SVG is a graphic that can be scaled
 ### 5. What image type would you use to display a screenshot on your website and why?
 PNG because it's lossless and would ensure any text in the picture could be read.
 
+# LEARN CSS
+
+### 1. Describe the difference between foreground and background colors of an HTML element, pretend you are talking to someone with no technical knowledge.
+Background color is always the bottom layers color. forground is the color of the content closest to you.
+### 2. Your friend asks you to give his colorless blog website a touch up. How would you use color to give his blog some character?
+I would find a color arangement that worked well together and give the background some color as well as create some different backgrounds for the various content as well as borders.
+### 3. What should you consider when choosing fonts for an HTML document?
+That they are web-safe, compatable with all the browsers and readable.
+### 4. What do font-size, font-weight, and font-style do to HTML text elements?
+- font size: Increases/decreases font size
+- font weight: Sets how bold the font is.
+- font style: What the font actually looks like, it's size and whether it's underlined, bold, etc..
+### 5. Describe two ways you could add spacing around the characters displayed in an h1 element.
+By using ``letter-spacing`` and ``word spacing`` tags.
