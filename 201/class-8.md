@@ -19,5 +19,5 @@ What are some advantages of using flexbox over float?
 - Making all the children of a container take up an equal amount of the available width/height, regardless of how much width/height is available.
 - Making all columns in a multiple-column layout adopt the same height even if they contain a different amount of content.
 
-How does this topic connect with your long term goals?
+How does this topic connect with your long term goals?  
 These tools seem to make creating a more aesthetic site easier, quicker and more dynamic.
