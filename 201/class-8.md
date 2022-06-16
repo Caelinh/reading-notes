@@ -1,6 +1,6 @@
 # CSS Layouts
 
-link to resource [https://web.dev/learn/css/flexbox/]  
+link to resource [flexbox](https://web.dev/learn/css/flexbox)   
 ### FlexBox
 Flexbox is designed for one-dimensional content. Explain what this means.  
 It's designed to return the best layout for alot of different sized boxes that are trying to fit in the viewport. You can only control things on the main axis.  
@@ -12,7 +12,8 @@ How can using certain properties of flexbox negatively impact accessibility?
 The changes are all visual and not logical. So if the order were to be reveresed for instance a keyboard input wouldn't be.
 
 ### Flexbox more
-
+(link)[https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Flexbox#why_flexbox]
+(see also)[https://web.dev/learn/css/layout/]
 What are some advantages of using flexbox over float?  
 - Vertically centering a block of content inside its parent.
 - Making all the children of a container take up an equal amount of the available width/height, regardless of how much width/height is available.
