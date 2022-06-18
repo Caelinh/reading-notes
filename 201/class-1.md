@@ -19,13 +19,14 @@ A variable is a store of value defined by you. It can be anything.
 
 ## Introduction to HTML  
 
-What is an HTML attribute?  
+### What is an HTML attribute?  
 Attributes contain extra information about the element that won't appear in the content.  
-Describe the Anatomy of an HTMl element.  
->>The opening tag: This consists of the name of the element (in this example, p for paragraph), wrapped in opening and closing angle brackets.  
->>This opening tag marks where the element begins or starts to take effect.
->>The content: What's inside of the tags.
->>The closing tag: This is the same as the opening tag, except that it includes a forward slash before the element name. This marks where the element ends.  
+<br>
+### Describe the Anatomy of an HTMl element.  
+>The opening tag: This consists of the name of the element (in this example, p for paragraph), wrapped in opening and closing angle brackets.  
+>This opening tag marks where the element begins or starts to take effect.
+>The content: What's inside of the tags.
+>The closing tag: This is the same as the opening tag, except that it includes a forward slash before the element name. This marks where the element ends.  
 
 What is the Difference between <article> and <section> element tags?
 What Elements does a “typical” website include?
