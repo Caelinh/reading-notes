@@ -1,16 +1,22 @@
 # Introductory HTML and JavaScript
 
 ## Getting started
-Describe how HTML, CSS, and JS files are “parsed” in the browser.  
+
+### Describe how HTML, CSS, and JS files are “parsed” in the browser.  
+
 They are parse in the following order.  
 - HTML as that leads to the css and javascript links being read.  
 - As its read requests are sent for the css that was linked. Followed by the javascript.  
-How can you find images to add to a Website?  
+
+### How can you find images to add to a Website?  
 Google images is a great source for images and can even be filtered for non copyright images.  
-How do you create a String vs a Number in JavaScript?  
+
+### How do you create a String vs a Number in JavaScript?  
 A string is encased in "" while a number uses actual numbers with no quotations.  
-What is a Variable and why are they important in JavaScript?  
+
+### What is a Variable and why are they important in JavaScript?  
 A variable is a store of value defined by you. It can be anything.  
+
 ## Introduction to HTML  
 
 What is an HTML attribute?  
