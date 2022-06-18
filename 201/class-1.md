@@ -28,13 +28,20 @@ Attributes contain extra information about the element that won't appear in the 
 >The content: What's inside of the tags.
 >The closing tag: This is the same as the opening tag, except that it includes a forward slash before the element name. This marks where the element ends.  
 
-What is the Difference between `<article>` and `<section>` element tags?
-An article represents a self contained composition of a document. It should be easily distrubutable.  
-A section is a broader element that which doesn't have anything too specific but usually holds a group of content. It usally has a header as well.
-What Elements does a “typical” website include?
-How does metadata influence Search Engine Optimization?
-How is the <meta> HTML tag used when specifying metadata?
+### What is the Difference between `<article>` and `<section>` element tags?
+An `<article>` represents a self contained composition of a document. It should be easily distrubutable.  
+A `<section>` is a broader element that which doesn't have anything too specific but usually holds a group of content. It usally has a header as well.
 
+### What Elements does a “typical” website include?  
+- A header
+- navigation bar
+- main content/article
+- sidebar
+- footer  
+### How does metadata influence Search Engine Optimization?
+Search engines use meta data while searching for sites so it's important to use good tags that defines your content so the site shows in results.  
+### How is the <meta> HTML tag used when specifying metadata?
+This tag is used to define language tags and allows your site to be translated to any language in the specific ruleset defined.  
 
 ## some use cases for `<section>`  
 - If the contents of the element represent a standalone, atomic unit of content that makes sense syndicated as a standalone piece (e.g. a blog post or blog comment, or a newspaper article), the `<article>` element would be a better choice.
