@@ -28,7 +28,16 @@ Attributes contain extra information about the element that won't appear in the 
 >The content: What's inside of the tags.
 >The closing tag: This is the same as the opening tag, except that it includes a forward slash before the element name. This marks where the element ends.  
 
-What is the Difference between <article> and <section> element tags?
+What is the Difference between `<article>` and `<section>` element tags?
+An article represents a self contained composition of a document. It should be easily distrubutable.  
+A section is a broader element that which doesn't have anything too specific but usually holds a group of content. It usally has a header as well.
 What Elements does a “typical” website include?
 How does metadata influence Search Engine Optimization?
 How is the <meta> HTML tag used when specifying metadata?
+
+
+## some use cases for `<section>`  
+- If the contents of the element represent a standalone, atomic unit of content that makes sense syndicated as a standalone piece (e.g. a blog post or blog comment, or a newspaper article), the <article> element would be a better choice.
+- If the contents represent useful tangential information that works alongside the main content, but is not directly part of it (like related links, or an author bio), use an <aside>.
+- If the contents represent the main content area of a document, use <main>.
+- If you are only using the element as a styling wrapper, use a <div>. An unwritten rule is that a <section> should logically appear in the outline of a document.
