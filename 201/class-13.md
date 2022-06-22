@@ -22,3 +22,5 @@ console.log( JSON.parse( localStorage.getItem( 'car' ) ) );
 
 ```
 ![picture of this output](https://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/1c7f4cfb-16dc-40c8-9b56-644a1792a3c2/console-e1285930679229.png)
+
+### [Also read](http://diveinto.html5doctor.com/storage.html)
