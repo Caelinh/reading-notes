@@ -1,4 +1,5 @@
-# [Javascript Object Basics](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects/Basics)
+# JS Object Literals and The DOM
+## [Javascript Object Basics](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects/Basics)
 **How would you describe an object to a non-technical friend you grew up with?**  
 An object is a container that can hold a variety of data types and attributess that relate to that object in whatever way you see fit.  
 **What are some advantages to creating object literals?** 
@@ -27,9 +28,10 @@ const dog = {
 ```
 
 ## [Introduction To The DOM](https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model/Introduction)
-**What is the DOM?**  
+**What is the DOM?**   
+The Document Object Model (DOM) is a programming interface for web documents. It represents the page so that programs can change the document structure, style, and content. The DOM represents the document as nodes and objects; that way, programming languages can interact with the page.  
 **Briefly describe the relationship between the DOM and JavaScript.**  
-
+The DOM creates objects out of all the elements on a webpage that can be accessed by any programming language to be manipulated or read from using api's.  
 
 ## Bookmark and Review ##
 [Understanding the problem domain is the hardest part of programming](https://simpleprogrammer.com/understanding-the-problem-domain-is-the-hardest-part-of-programming)
