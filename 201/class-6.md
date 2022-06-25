@@ -6,9 +6,15 @@ It makes it easier and more efficient to transfer things between servers or data
 **How do objects differ from arrays?**   
 Objects can store arrays and functions. It's also easier to call what you want in an object with dot notation.    
 **Give an example for when you would need to use bracket notation to access an object’s property instead of dot notation.**  
-
+Dot notation to bracket notation.
+```
+person.age
+person.name.first
+person['age']
+person['name']['first']
+```
 **Evaluate the code below. What does the term this refer to and what is the advantage to using this?**  
-
+The `this` keyword refers to the current object the code is being written inside. In this example it is the object dog. It'd udeful wheneever your using constructors and creating multiple objects using the same code.  
 ```
 const dog = {
   name: 'Spot',
