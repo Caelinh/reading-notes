@@ -1,3 +1,4 @@
+# Javascript Canvas and Chart.js
 ## [JavaScript Canvas](https://www.javascripttutorial.net/web-apis/javascript-canvas/)
  
 **What does the `<canvas>` allow a developer to acheive?**  
