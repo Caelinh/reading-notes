@@ -24,3 +24,5 @@ When used in a literal it's only going to work for that specific object. In a co
 
 **Explain prototypes and inheritance via an analogy from your previous work experience.**  
 
+#### Bookmark and review
+[HTML Table Advanced Features and Accessibility](https://developer.mozilla.org/en-US/docs/Learn/HTML/Tables/Advanced)
