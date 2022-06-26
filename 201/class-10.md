@@ -20,7 +20,8 @@ The debugger tool allows you to see your code locally in the browser. The browse
 **Define what a breakpoint is.**  
 Places in your code that you want to pause execution and identify the problems that prevent your code from executing properly.  
 
-**What is the call stack?**  
+**What is the call stack?**   
+The Call stack section shows you what code was executed to get to the current line. You can see that the code is in the function that handles a mouse click, and that the code is currently paused on the breakpoint.  
 
 **Bookmark and Review**  
 
