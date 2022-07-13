@@ -3,13 +3,21 @@
 [React Docs - lists and keys](https://reactjs.org/docs/lists-and-keys.html)
 
 **What does .map() return?**  
+a new array using the values of the one passed through it.  
 
 **If I want to loop through an array and display each value in JSX, how do I do that in React?**  
+  ```
+    let array = [1,2,3,4,5];
+    const list = array.map((number) =>
+      <li>{number}</li>
+      );
+      <ul>{list}</ul>
+  ````
 
-**Each list item needs a unique ____.**  
+**Each list item needs a unique _key___.**  
 
 **What is the purpose of a key?**  
-
+Keys help React identify which items have changed, are added, or are removed. Keys should be given to the elements inside the array to give the elements a stable identity:
 
 [The Spread Operator](https://medium.com/coding-at-dawn/how-to-use-the-spread-operator-in-javascript-b9e4a8b06fab)
 
