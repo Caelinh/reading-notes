@@ -1,3 +1,7 @@
+# React and High order functions
+
+[React Docs - Thinking in React](https://reactjs.org/docs/thinking-in-react.html)
+
 **What is the single responsibility principle and how does it apply to components?**  
 A component should ideally only do one thing. If it ends up growing, it should be decomposed into smaller subcomponents.  
 
@@ -18,6 +22,8 @@ UI components and how they will interact.
 - Find a common owner component (a single component above all the components that need the state in the hierarchy).
 - Either the common owner or another component higher up in the hierarchy should own the state.
 - If you can’t find a component where it makes sense to own the state, create a new component solely for holding the state and add it somewhere in the hierarchy above the common owner component.  
+
+## [Higher-Order Functions](https://eloquentjavascript.net/05_higher_order.html#h_xxCc98lOBK)
 
 **What is a “higher-order function”?**  
 Functions that operate on other functions, either by taking them as arguments or by returning them.  
