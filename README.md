@@ -3,7 +3,7 @@
 My name is Caelin Hargrave, I'm a Navy vet located in Houston, TX that's interested in becoming a developer in web 3. These are all the notes from the Code Fellows 102 course.<br>
 Link to [My Git Hub](https://github.com/Caelinh) 
 
-## Table of Contents Code 102 notes
+## Code 102 - Intro to Software Development
 - [Markdown](https://caelinh.github.io/reading-notes/102/class-1)
 - [The Terminal](https://caelinh.github.io/reading-notes/102/class-2)
 - [Using Git](https://caelinh.github.io/reading-notes/102/class-3)
@@ -13,7 +13,7 @@ Link to [My Git Hub](https://github.com/Caelinh)
 - [Programming with JavaScript](https://caelinh.github.io/reading-notes/102/class-7)
 - [Operators and loops](https://caelinh.github.io/reading-notes/102/class-8)
 
-## Table of Contents Code 201 notes
+## Code 201 - Foundations of Software Development
 - [Introductory HTML and JavaScript](https://caelinh.github.io/reading-notes/201/class-1)
 - [Basics of HTML, CSS and Javascript](https://caelinh.github.io/reading-notes/201/class-2)
 - [HTML Lists, Control Flow with JS, and the CSS Box Model](https://caelinh.github.io/reading-notes/201/class-3)
@@ -30,7 +30,7 @@ Link to [My Git Hub](https://github.com/Caelinh)
 - [CSS Transforms, Transitions, and Animations](https://caelinh.github.io/reading-notes/201/class-14a)
 - [What Google Learned About Teams](https://caelinh.github.io/reading-notes/201/class-14b)
 
-## Table of Contents Code 301 notes  
+## Code 301 - Intermediate Software Development 
 - [Introduction to React and Components](https://caelinh.github.io/reading-notes/301/class-1)
 - [State and Props](https://caelinh.github.io/reading-notes/301/class-2)
 - [Passing Functions as Props](https://caelinh.github.io/reading-notes/301/class-3)
@@ -46,3 +46,5 @@ Link to [My Git Hub](https://github.com/Caelinh)
 - [More CRUD](https://caelinh.github.io/reading-notes/301/class-13)
 - [Diversity & Inclusion in the Tech Industry](https://caelinh.github.io/reading-notes/301/class-14)
 - [Authentication](https://caelinh.github.io/reading-notes/301/class-15)
+
+## Code 401 - Advanced Software Development
