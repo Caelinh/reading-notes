@@ -36,3 +36,4 @@
 **There are many reasons why we may want to make a duplicate of a file or directory. Often before changing something, we may wish to create a duplicate so that if something goes wrong we can easily revert back to the original. The command we use for this is cp which stands for copy.**  
 ````cp [options] <source> <destination>````
 
+## [Cheat Sheet](https://ryanstutorials.net/linuxtutorial/cheatsheet.php)  
