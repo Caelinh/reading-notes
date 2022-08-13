@@ -48,3 +48,4 @@ Link to [My Git Hub](https://github.com/Caelinh)
 - [Authentication](https://caelinh.github.io/reading-notes/301/class-15)
 
 ## Code 401 - Advanced Software Development
+- [BASH Notes](https://caelinh.github.io/reading-notes/401/Command-line-notes)
